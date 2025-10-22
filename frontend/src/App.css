@@ -97,8 +97,7 @@ button:active {
 }
 
 table {
-  width: calc(100% - 80px);
-  margin: 20px 40px;
+  width: 100%;
   border-collapse: collapse;
   background-color: white;
   border: 1px solid #ddd;
